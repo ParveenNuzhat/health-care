@@ -1,7 +1,7 @@
-### Dazzle Dentistry
+# Dazzle Dentistry
 ## Link: https://dazzle-dentistry-8fc12.web.app
 
-# Description 
+### Description 
 
 * This website was created using React and was added to Firebase. Two sign-in methods were used for the authentication- Google and Email & Password.
 

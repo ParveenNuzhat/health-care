@@ -1,0 +1,9 @@
+.header-container{
+    background-image: url('../../Images/banner.jpg');
+    background-size: cover;
+    height: 500px;
+    min-height: 450px;
+    background-position: center;
+    box-shadow: 5px 5px 5px rgb(240, 238, 238);;
+
+}

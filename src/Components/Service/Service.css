@@ -1,0 +1,9 @@
+.service-card{
+    height: 500px;
+    min-height: 450px;
+}
+
+.service-img{
+    min-height: 250px;
+    height: 300px;
+}

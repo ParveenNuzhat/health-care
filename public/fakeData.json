@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Oral Hygiene and Cleaning",
+        "img": "https://i.ibb.co/cbjgpgv/laser-dentistry-2106.jpg",
+        "feature": "How many times do you visit a dentist for a cleaning and general checkup? Regular hygiene visits are really important as these appointments provide your teeth and gums with a thorough cleaning, inspection, and preventative maintenance.",
+        "description": "Our dentists highly recommend that patients should see us at least twice a year. During your visit, a dental hygienist will complete a thorough teeth cleaning using specific tools: brushing, removing built-up plaque, scraping under the gum line, polishing and flossing. The hygienist will also go over how to properly take care of your teeth or your child’s teeth at home."
+    },
+    {
+        "id": 2,
+        "title": "Teeth Whitening",
+        "img": "https://i.ibb.co/CPYHWSh/teeth-whitening-mouthwash.jpg",
+        "feature": "Who doesn't love a white pearl smile? But our lifestyle, diet and aging can change the colour of your teeth gradually which may negatively affect your confidence. Teeth Whitening is a procedure carried out at our clinic to help you fight teeth discoloration",
+        "description": "Teeth whitening is an increasingly popular procedure and undoubtedly a fantastic confidence-booster. It allows us to remove or reduce stains, lightening teeth for a more attractive appearance.We have done countless of Teeth Whitening procedures for our clients and the feedback is overwhelmingly positive. We can't wait to bring that joy and confidence to you too!"
+    },
+    {
+        "id": 3,
+        "title": "Dental Implants",
+        "img": "https://i.ibb.co/YTrZqwS/implants-2.jpg",
+        "feature": "Having a missing tooth or maybe even a couple of missing teeth? Dental Implants may be the the answer you're looking for.",
+        "description": "Dental Implants are titanium posts/frames that are surgically positioned by our dentist into the jawbone just underneath the gum and act as a tooth root. Once they correctly sit in place, our dentist can mount the replacement teeth (crown) onto the metal post, giving you a new set of teeth/tooth."
+    },
+    {
+        "id": 4,
+        "title": "Invisalign",
+        "img":"https://i.ibb.co/1zLTp6X/Windermere-Orthodontics-Clear-Braces-376w.jpg",
+        "feature": "If your teeth are not as straight as you would like them or if you have spacing between your teeth consider Invisalign clear braces that can straighten your smile with out the use of metal brackets!",
+        "description": "Invisalign is an orthodontic treatment that relies on a series of trays (aligners) to move your teeth into the desired position. They are created from plastics that are detachable, practically invisible and custom-built for your teeth."
+    },
+    {
+        "id": 5,
+        "title": "Root Canal Treatment",
+        "img": "https://i.ibb.co/1bvCTjs/lg-2020122900383525-kanal-tedavisi.jpg",
+        "feature": "You may require a root canal if tooth decay progresses and damages the nerve of your tooth",
+        "description": "Underneath the enamel, your tooth has pulpy and soft matter. Inside this pulp is a collection of nerves, connective tissue, and blood vessels. The pulp can get infected in a variety of ways, often caused by a crack, chip in your tooth, or deep decay. At this point, it is frequently necessary to remove it from the canal space in the root of your tooth. Then, the space is disinfected and filled. The root canal treatment facilitates the restoration of the natural comfort and function of your tooth."
+    },
+    {
+        "id": 6,
+        "title": "Dental Braces",
+        "img": "https://i.ibb.co/ZWGk9MW/image-axd-picture-2017-9-shutterstock-572412436.jpg",
+        "feature": "lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui",
+        "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque."
+    },
+    {
+        "id": 7,
+        "title": "Wisdom Teeth Extraction",
+        "img": "https://i.ibb.co/JC9NxgY/wisdom-teeth.jpg",
+        "feature": "adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci",
+        "description": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+    },
+    {
+        "id": 8,
+        "title": "Crowns & Bridges",
+        "img": "https://i.ibb.co/j6Y8hb1/image-axd-picture-2017-7-shutterstock-25133584.jpg",
+        "feature": "If your tooth already contains several fillings — or has a large amount of decay — A crown could be an alternative suggestion.",
+        "description": "Dental bridges and crowns are permanent, prosthetic appliances that are bonded onto existing teeth or implants to cover an area where one or more teeth are missing, chipped or discoloured."
+    },
+    {
+        "id": 9,
+        "title": "Oral Cancer Screening",
+        "img": "https://i.ibb.co/NVtvStt/identafi-2.png",
+        "feature": "ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus",
+        "description": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus."
+    },
+    {
+        "id": 10,
+        "title": "Dental Emergency Service",
+        "img": "https://i.ibb.co/0qZy34D/5ad08de93bc5607c16aea68104561e03-blorwest.jpg",
+        "feature": "in ante vestibulum ante ipsum primis in faucibus orci luctus et",
+        "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero."
+    }
+]

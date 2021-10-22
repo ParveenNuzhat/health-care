@@ -1,0 +1,19 @@
+.team-banner{
+    background-image: url('../../Images/banner2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.team-img img{
+    border: 1px solid rgb(241, 238, 238);
+    border-radius: 200px;
+    box-shadow: 5px 5px 10px rgb(32, 29, 29);
+}
+
+.team-card{
+    background: none;
+}
+
+@media screen {
+    
+}

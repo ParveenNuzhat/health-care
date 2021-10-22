@@ -1,0 +1,45 @@
+[
+    {
+    "id": 1,
+    "name": "Alex Turner",
+    "img": "https://i.ibb.co/jZJLdcV/image-20-1024x1024.jpg",
+    "designation": "Clinical Director",
+    "feature": "Has an exceptional organizational and leadership skills.",
+    "email": "aciciari0@usgs.gov"
+  }, {
+    "id": 2,
+    "name": "Fan Goldie",
+    "img": "https://i.ibb.co/F8rWWTW/dentist-02.jpg",
+    "designation": "Orthodontist",
+    "feature": "Responsible for the beautiful pearly white smiles.",
+    "email": "tsidgwick1@apache.org"
+  }, {
+    "id": 3,
+    "name": "Elizabeth Welsh",
+    "img": "https://i.ibb.co/30TwyXt/dentist-03.jpg",
+    "designation": "Dentist",
+    "feature": "Maintains and improves people’s oral health and quality of life.",
+    "email": "lfutcher2@exblog.jp"
+  }, {
+    "id": 4,
+    "name": "Emily Silver",
+    "img": "https://i.ibb.co/3dHmQbL/dentist-04.jpg",
+    "designation": "Oral Health Therapist",
+    "feature": "Provides high quality oral health care for children and adolescents.",
+    "email": "svickers3@ftc.gov"
+  }, {
+    "id": 5,
+    "name": "Debra Bunny",
+    "img": "https://i.ibb.co/bJ1jhHY/dentist-05.jpg",
+    "designation": "Hygienist",
+    "feature": "Works with dentist to meet the oral health needs of patients.",
+    "email": "bcashen4@geocities.jp"
+  }, {
+    "id": 6,
+    "name": "Brook Roberts",
+    "img": "https://i.ibb.co/KD5Dx7f/dentist-06.jpg",
+    "designation": "Practice Manager",
+    "feature": "She is responsible for the smooth running of the clinic.",
+    "email": "cwittey5@disqus.com"
+  }
+]

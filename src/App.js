@@ -1,7 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import './App.css';
-import Dentists from './Components/Dentists/Dentists';
 import Header from './Components/Header/Header';
 import Home from './Components/Home/Home';
 import Register from './Components/Register/Register';
@@ -12,6 +11,8 @@ import Login from './Components/Login/Login';
 import AuthProvider from './Context/AuthProvider';
 import PrivateRoute from './Components/PrivateRoute/PrivateRoute';
 import Footer from './Components/Footer/Footer';
+import Team from './Components/Team/Team';
+import DentalBlog from './Components/DentalBlog/DentalBlog';
 
 
 function App() {
@@ -38,8 +39,11 @@ function App() {
           <PrivateRoute path="/serviceDetail/:serviceId">
             <ServiceDetail></ServiceDetail>
           </PrivateRoute>
-          <Route path="/dentists">
-            <Dentists></Dentists>
+          <Route path='/team'>
+            <Team></Team>
+          </Route>
+          <Route path='/blog'>
+            <DentalBlog></DentalBlog>
           </Route>
           <Route exact path='*'>
             <NotFound></NotFound>

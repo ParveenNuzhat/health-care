@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "title": "THE FIRST TOOTHBRUSH AND TOOTHPASTE",
+        "date": "May 14th, 2014",
+        "fact": "Humans have always tried to find new ways to clean our teeth - we didn't always have electric toothbrushes and air flossers. During the time of the Ancient Egyptians, evidence has been found that they were using primitive tools made from twigs to brush their teeth. Many countries still use twigs from trees with antibacterial properties, such as cinnamon and neem, and they have been found to be just as effective as modern toothbrushes.However, it was the Chinese that first invented a tool most similar to the modern toothbrush. It was made of bamboo and the bristles were made from boar hair. As for toothpaste, it first started out with weird mixtures of ash, eggshells, and crushed bones. A far cry from the minty fresh toothpaste in your bathroom today.",
+        "img": "http://dummyimage.com/213x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 2,
+        "title": "Oral Cancer: Fact or Fiction",
+        "date": "June 14th, 2015",
+        "feature": "Oncology specialists expect about 5,400 Canadians to be diagnosed with oral cavity cancer by the end of this year. About two-thirds of those patients are expected to survive. Those numbers could be much higher though, as most oral cancers are curable if detected early. That’s why we’re hoping to raise awareness and help as many as possible.",
+        "link": "",
+        "img": "http://dummyimage.com/213x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 3,
+        "title": "Why are Teeth Cleanings Important",
+        "date": "8/27/2021",
+        "feature": "arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis",
+        "link": "",
+        "img": "http://dummyimage.com/170x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 4,
+        "title": "Cesare Byford",
+        "date": "10/29/2020",
+        "feature": "dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero",
+        "link": "",
+        "img": "http://dummyimage.com/226x100.png/dddddd/000000"
+    },
+    {
+        "id": 5,
+        "title": "Elga Corneil",
+        "date": "5/16/2021",
+        "feature": "sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices",
+        "link": "",
+        "img": "http://dummyimage.com/123x100.png/dddddd/000000"
+    }
+]
